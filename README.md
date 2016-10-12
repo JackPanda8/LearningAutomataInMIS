@@ -1,0 +1,2 @@
+# LearningAutomataInMIS
+使用学习自动机解决图的最大独立集问题
